@@ -1,0 +1,19 @@
+{
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.fontWeight": 450,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 20,
+    "editor.cursorStyle": "line",
+    "editor.letterSpacing": 0.15,
+    "editor.lineNumbers": "relative",
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.tabSize": 4,
+    "editor.minimap.autohide": true,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": 450
+}
